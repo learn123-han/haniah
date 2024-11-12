@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "title": "PART1",
+    "subtitle": "Locomotor Disability",
+    "time": 10,
+    "questionList": [
+      {
+        "question": "Does this student have difficulty in walking or needs support to walk'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student have difficulty in using/ moving any part of the body'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student walk with sudden involuntary twitches or jerks'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student have an amputated e.g removal of a limb by surgical operation body part'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "PART2",
+    "subtitle": "Cerebral Palsy",
+    "time": 10,
+    "questionList": [
+      {
+        "question": "Does this student have stiff or floppy muscles and need to put in more effort to get their muscles moving while doing an activity'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": " Does this student have poor coordination and balance'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student have tremors or involuntary movements which are hindering him/her from doing any activity'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student have a limited range ofmovement'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "PART3",
+    "subtitle": "Low Vision",
+    "time": 10,
+    "questionList": [
+      {
+        "question": "Does this student complain of burning sensation or itchiness in or around the eyes'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student flicker his/her eyes frequently'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student have a low attention span while doing visual activity'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student complain of frequent headaches'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "PART4",
+    "subtitle": "AUTISM",
+    "time": 10,
+    "questionList": [
+      {
+        "question": "Does this student have difficulty in making eye contact or looking at the speaker'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student echo or repeat words? For example, on being asked ‘what is your name?’ will the student repeat ‘what is your name?’ instead of telling their name'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student have difficulty in playing/ interacting/ making friends with peer group/classmates'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student appear to be lost in his/her own world'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "PART5",
+    "subtitle": "Mental Illness",
+    "time": 10,
+    "questionList": [
+      {
+        "question": "Does this student often appear sad, or seems withdrawn, or has severe mood swings that cause problems in relationships at school'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student have trouble focusing or sitting still/staying in his/her seat'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Does this student look anxious and frequently report symptoms such as headaches and stomach aches'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      },
+      {
+        "question": "Has this student been observed getting involved in drugs or alcohol use'?",
+        "options": [
+          "Yes",
+          "Somewhat",
+          "No"
+        ],
+        "correct": "No"
+      }
+    ]
+  }
+]
